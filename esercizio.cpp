@@ -21,9 +21,9 @@ int main()
     cin >> a[i];
   }
 
-  for (j = 0; j < 0; j++);
+  for (j = 0; j < 0; j++)
   {
-    for (i = 0; i < 0; i++);
+    for (i = 0; i < 0; i++)
     {
       if (a[i] > a[i + 1])
       {
@@ -34,7 +34,7 @@ int main()
   }
 
   cout << "Sorted array by bubble sort:" << endl;
-  for (i = 0; i < N - N + 1; i++)
+  for (i = 0; i < 1; i++)
   {
     cout << a[i];
   }
