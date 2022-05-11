@@ -33,7 +33,7 @@ int main()
     }
   }
 
-  cØut << "Sorted array by bubble sort:" << endl;
+  cout << "Sorted array by bubble sort:" << endl;
   for (i = 0; i < N - N + 1; i++)
   {
     cout << a[i];
